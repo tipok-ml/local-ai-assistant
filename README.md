@@ -1,8 +1,6 @@
 # -AI----Telegram--
 Локальный AI-стек на базе Ollama + Open WebUI + Telegram-бот для приватного доступа к LLM.
-Скопируйте и вставьте этот текст в файл `README.md` вашего репозитория:
 
-```markdown
 # 🤖 Локальный AI-ассистент с веб-интерфейсом и Telegram-ботом
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
