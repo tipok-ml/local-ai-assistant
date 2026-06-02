@@ -1,4 +1,4 @@
-# -AI----Telegram--
+# local-ai-assistant
 Локальный AI-стек на базе Ollama + Open WebUI + Telegram-бот для приватного доступа к LLM.
 
 # 🤖 Локальный AI-ассистент с веб-интерфейсом и Telegram-ботом
