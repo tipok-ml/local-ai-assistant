@@ -1,0 +1,7 @@
+FROM ./model.gguf
+SYSTEM Ты — эксперт по кибербезопасности. Отвечай только на русском языке, развёрнуто, с примерами.
+TEMPLATE "{{ .Prompt }}"
+PARAMETER temperature 0.6
+PARAMETER top_p 0.9
+PARAMETER repeat_penalty 1.15
+PARAMETER num_ctx 8192
